@@ -1,0 +1,11 @@
+# ignore Eclipse configuration files
+.classpath
+.project
+.settings/
+.metadata/
+
+# Ignore Maven target directories
+target/
+
+# Ignore common temporary files
+.tmp*
